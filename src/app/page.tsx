@@ -2,8 +2,7 @@ import Flex from "@/components/Layout/Flex";
 import Image from "next/image";
 import icon from "../assets/icon.png";
 import icon2 from "../assets/website.svg";
-import greenBackground from "../assets/green-background.png";
-import { Box, Button, Card, Chip, Typography } from "@mui/material";
+import { Button, Card, Chip, Typography } from "@mui/material";
 
 export default function Home() {
   return (
